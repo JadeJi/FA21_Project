@@ -1,4 +1,4 @@
-sample-id,filename,direction
+sample-id,absolute-filepath,direction
 58912001,/scratch/groups/t-sprehei1/class_data/RockCreek/58912001_48_L001_R1_001.fastq.gz,forward
 58912001,/scratch/groups/t-sprehei1/class_data/RockCreek/58912001_48_L001_R2_001.fastq.gz,reverse
 58912002,/scratch/groups/t-sprehei1/class_data/RockCreek/58912002_17_L001_R1_001.fastq.gz,forward
